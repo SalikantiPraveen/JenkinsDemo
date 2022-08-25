@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Praveen_Salikanti\\source\\repos\\JenkinsDemo\\JenkinsDemo\\JenkinsDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Praveen_Salikanti\\Desktop\\JenkinsDemo\\JenkinsDemo\\JenkinsDemo\\JenkinsDemo.csproj",
       "projectName": "JenkinsDemo",
-      "projectPath": "C:\\Users\\Praveen_Salikanti\\source\\repos\\JenkinsDemo\\JenkinsDemo\\JenkinsDemo.csproj",
+      "projectPath": "C:\\Users\\Praveen_Salikanti\\Desktop\\JenkinsDemo\\JenkinsDemo\\JenkinsDemo\\JenkinsDemo.csproj",
       "packagesPath": "C:\\Users\\Praveen_Salikanti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Praveen_Salikanti\\source\\repos\\JenkinsDemo\\JenkinsDemo\\obj\\",
+      "outputPath": "C:\\Users\\Praveen_Salikanti\\Desktop\\JenkinsDemo\\JenkinsDemo\\JenkinsDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Praveen_Salikanti\\AppData\\Roaming\\NuGet\\NuGet.Config",
